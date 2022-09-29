@@ -1,0 +1,26 @@
+section{
+    display: flex;
+}
+
+
+.money{
+    font-size: xx-large;
+    font-weight: 800;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.img-money{
+    width: 600px;
+    height: 500px;
+    margin-left: 100px;
+}
+
+.money-cal{
+    margin-left: 50px;
+}
+.flx-text{
+    display: flex;
+   align-items: center;
+}
